@@ -1,0 +1,10 @@
+# Compiled Executables
+*.exe
+*.out
+*.o
+*.obj
+a.out
+
+# IDE Specific folders (agar VS Code use kar rahe hain)
+.vscode/
+*.vscode
