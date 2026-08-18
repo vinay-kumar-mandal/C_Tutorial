@@ -8,3 +8,5 @@ a.out
 # IDE Specific folders (agar VS Code use kar rahe hain)
 .vscode/
 *.vscode
+.rough.c
+/rough.c
